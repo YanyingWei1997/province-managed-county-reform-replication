@@ -1,0 +1,5 @@
+combo,controls,t1_coef,t1_se,t1_ci_lo,t1_ci_hi,t1_sig,post_sig_count
+primary_ratio secondary_ratio ln_pop gov_scale,primary_ratio secondary_ratio ln_pop gov_scale,1.08873652658796,.5747135240537976,-.0377019805574832,2.215175033733403,0,8
+primary_ratio secondary_ratio ln_pop,primary_ratio secondary_ratio ln_pop,1.117662679547542,.5750804539433456,-.0094950101814155,2.244820369276499,0,8
+primary_ratio secondary_ratio,primary_ratio secondary_ratio,1.11506595434548,.5751607020849629,-.0122490217410474,2.242380930432007,0,8
+,,.9241043340824667,.5763857063721375,-.2056116504069226,2.053820318571856,0,8

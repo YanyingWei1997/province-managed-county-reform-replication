@@ -1,0 +1,4 @@
+spec,coef,se,ci_lower,ci_upper,p,N,note
+TWFE_D2_excl_pre2000,1.068032883740606,.3403288472446412,.4009883431411092,1.735077424340103,.0016996687124728,24583,pre-2000 treated counties dropped
+D1_n_cohorts,,,,,,,Total D1 cohort years (>=2000): 15
+D2_n_cohorts,,,,,,,Total D2 cohort years (>=2000): 13

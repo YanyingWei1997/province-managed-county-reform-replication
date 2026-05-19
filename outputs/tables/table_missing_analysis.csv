@@ -1,0 +1,4 @@
+test,coef,se,p_value,N,note
+Overall_missing_pct,32.64476252439818,,,36888,Overall missing rate (%)
+Probit_D2,.1585838741172537,.0554075193138301,.00420795859734,36888,Probit missing on D2 + year FE
+LPM_D2_with_FE,.0364326461858116,.0067183000593671,5.86409349967e-08,36082,LPM missing on D2 with county+year FE + controls

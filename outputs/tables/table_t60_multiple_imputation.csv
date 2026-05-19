@@ -1,0 +1,5 @@
+check,estimate,se,p_value,N,clusters,note
+Complete-case TWFE,0.9979528125074477,0.33767429853527525,0.003122933152186924,24781,1530,Observed outcomes only; same TWFE specification as baseline.
+Multiple-imputation TWFE,1.3796823050570137,0.3287124886406255,2.7019808922723598e-05,33190,1535,20 imputations; IterativeImputer/BayesianRidge; Rubin pooled variance; conditional MAR sensitivity only.
+Rubin within variance,0.08676764385048216,,,33190,1535,Average complete-data variance for D2 across imputations.
+Rubin between variance,0.020270720321743995,,,33190,1535,Between-imputation variance for D2.

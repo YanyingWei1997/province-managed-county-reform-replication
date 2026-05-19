@@ -1,0 +1,6 @@
+spec,coef,se,p_value,N,note
+TWFE_baseline_D2_vs_never,.4146489799911796,.3528033074379214,.2398755615880352,20981,Baseline reproduction
+TWFE_D2_vs_D1only,1.792224986689375,.3895936160925042,4.22000027100e-06,16048,Restricted control: D2-treated vs D1-only
+TWFE_full_with_D1_control,.9979528125074121,.3378243244850886,.0031362456248807,24781,Full sample with D1 indicator
+TWFE_D2_x_D1eligible,-.6089008439754058,.6111294482999901,,,Interaction D2 × D1-eligible (in full sample with D1 control)
+CSDID_D2_vs_D1only,.4208984530451121,.6394023724753137,,,CS-DID with D1-only control

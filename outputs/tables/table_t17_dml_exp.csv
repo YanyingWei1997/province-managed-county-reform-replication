@@ -1,0 +1,2 @@
+gamma,gamma_se,gamma_pval,gamma_ci_lo,gamma_ci_hi,delta,delta_se,delta_pval,delta_ci_lo,delta_ci_hi,indirect2_point,ci2_lower,ci2_upper,ci2_width,indirect2_mean_boot,n_bootstrap,contains_zero,significance,total_effect_t14,indirect_pct,n_obs,nonmissing_rate,sample_note
+0.05091026,0.00354282,0.0,0.04396645,0.05785406,4.25230359,0.60225808,0.0,3.07189944,5.43270774,0.21648587,0.152005,0.294935,0.14293,0.22185103,200,False,significant,1.0415,20.786,24781,0.997384,有效样本量充足（非空率=99.7%）

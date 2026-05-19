@@ -1,0 +1,2 @@
+alpha,alpha_pct,se_pct,pval,ci_lo_pct,ci_hi_pct,direction,status,n_obs
+-0.01425225,-1.425225,0.210299,0.0,-1.837403,-1.013047,negative,WARNING,24775

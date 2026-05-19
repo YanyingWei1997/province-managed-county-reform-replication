@@ -1,0 +1,2 @@
+alpha_pct,alpha_raw,beta,beta_se,beta_pval,beta_ci_lo,beta_ci_hi,indirect_point,ci_lower,ci_upper,ci_width,indirect_mean_boot,n_bootstrap,contains_zero,significance,total_effect_t14,indirect_pct,n_obs
+-1.4252,-0.014252,2.053826,1.032971,0.046782,0.029239,4.078412,-0.029271,-0.05692,0.00044,0.05736,-0.028301,200,True,not_significant,1.0415,-2.81,24775

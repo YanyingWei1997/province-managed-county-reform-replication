@@ -1,0 +1,6 @@
+spec,d2_coef,d2_se,d2_p,ci_lo,ci_hi,note
+1_county_cluster,0.9980,0.3378,0.003,0.336,1.660,reghdfe county clustering (Table 1 headline)
+2_province_cluster,0.9980,0.7635,0.191,-0.498,2.494,reghdfe province clustering (asymptotic)
+3_twoway_county_year,0.9980,0.4999,0.046,0.018,1.978,reghdfe two-way (county+year)
+4_wild_rad_boottest,.9979528125082543,,.2262262262262262,-.6809359507010496,2.811029871816819,areg + boottest 999 reps Rademacher
+5_wild_webb_boottest,.9979528125082543,,.2472472472472473,-.6975910422421894,2.657639664828226,areg + boottest 999 reps Webb 6pt

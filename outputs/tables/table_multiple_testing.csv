@@ -1,0 +1,8 @@
+test,p_raw,rank,p_bonferroni,p_holm,p_raw_sig,p_bonferroni_sig,p_holm_sig
+Single-variable causal-forest r,1e-06,1,7e-06,7e-06,***,***,***
+"Pearson r(CATE, fa_pre)",1.2e-05,2,8.400000000000001e-05,7.2e-05,***,***,***
+Heterogeneity F-test (D2xQ1 = D2xQ4),0.0001,3,0.0007,0.0005,***,***,***
+Welch t-test on CATE median split,0.000204,4,0.001428,0.000816,***,***,***
+Interaction TWFE D2 x Q1,0.0005,5,0.0035,0.0015,***,***,***
+ANOVA F across regions,0.001,6,0.007,0.002,***,***,***
+Subgroup TWFE Q4,0.078,7,0.546,0.078,*,,*

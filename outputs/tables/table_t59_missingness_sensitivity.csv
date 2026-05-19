@@ -1,0 +1,10 @@
+check,estimate,se,p_value,ci_lo,ci_hi,N,note
+Complete-case TWFE,.9979528125074121,.3378243244850886,.0031362456248807,.3358171365166385,1.660088488498186,24781,Baseline county and year FE
+IPW TWFE,.9584958867997154,.3795128123835955,.0115502353220334,.2146507745278682,1.702340999071563,24781,Stabilized observation-probability weights trimmed at 10; flag=PASS
+Control-function diagnostic,.9575939759319969,.3379901156830029,.0046084380357427,.2951333491933112,1.620054602670683,24781,Includes inverse Mills ratio from observation probit; no exclusion restriction; flag=DIAGNOSTIC_ONLY
+Observation model mean Pr(obs),.7466526046412401,,,,,33190,Mean predicted observation probability
+Observation model p1 Pr(obs),.3426568996078415,,,,,33190,1st percentile predicted observation probability
+Observation model p99 Pr(obs),.9999445366069264,,,,,33190,99th percentile predicted observation probability
+Trimmed IPW mean,1.000456827902876,,,,,24781,Mean stabilized trimmed weight among observed observations
+Trimmed IPW p99,2.020812745717786,,,,,24781,99th percentile stabilized trimmed weight
+Trimmed IPW max,4.081521671772828,,,,,24781,Maximum stabilized trimmed weight

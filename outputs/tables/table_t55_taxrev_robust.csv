@@ -1,0 +1,6 @@
+spec,outcome,d2_coef,d2_se,d2_p,n_obs,note
+1_headline,gdp_growth_pc,.9979528125074121,.3378243244850886,.0031362456248807,24781,Headline (Table 1 reference)
+2_ln_fiscal_rev_pc,ln_fiscal_rev_pc,.0015322351455235,.0153748578993101,.9206154553954433,36077,Alt outcome: log per-capita fiscal revenue
+3_fiscal_rev_growth,D.ln_fiscal_rev_pc_pct,3.840896101438318,.436642998165952,0,34690,Alt outcome: fiscal-rev growth rate (pp)
+4_rev_gdp_ratio,fiscal_rev_to_gdp,.1214025047728412,.0814462835259114,.1360708195683662,36077,Alt outcome: fiscal_rev/GDP ratio (%)
+5_ln_gdppc,ln_gdppc,-.0074577979269601,.0113480537190391,.5110604258501423,24781,Alt outcome: log per-capita GDP (level)

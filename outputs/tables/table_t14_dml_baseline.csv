@@ -1,0 +1,2 @@
+theta_pct,se_pct,pval,ci_lo_pct,ci_hi_pct,twfe_ref,diff_pp,diff_pct,verdict,n_obs
+1.041484,0.288584,0.000307,0.47587,1.607098,1.023,0.018484,1.8068,一致,24781

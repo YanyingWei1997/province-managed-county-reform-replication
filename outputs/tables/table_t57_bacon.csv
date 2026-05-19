@@ -1,0 +1,7 @@
+component,beta,total_weight,note
+Never_v_timing,0.772,0.812,Treated vs Never-treated (clean comparison) — DOMINATES at 81.2%
+Always_v_timing,-3.415,0.014,Always-treated as control (Hainan etc.)
+Early_v_Late_total,n.a.,~0.080,"Earlier-treated vs later-treated (""bad comparison"" with potential negative weights) — sum across 23 sub-cells"
+Late_v_Early_total,n.a.,~0.094,Later-treated vs earlier-treated — sum across 23 sub-cells
+TWFE_balanced_panel,0.706,1.000,"Aggregate TWFE on 2001–2022 balanced sub-panel, SE=0.328, p=0.031"
+TWFE_full_panel,0.998,n.a.,"Full unbalanced panel headline (Table 1 reference)"
